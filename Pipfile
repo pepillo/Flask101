@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 flask101-env = "*"
 flask = "*"
+flask-wtf = "*"
 
 [requires]
 python_version = "3.8"
-
